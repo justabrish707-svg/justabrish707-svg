@@ -1,4 +1,4 @@
- Hi, I'm Abule 👋
+ Hi, I'm Abraham 👋
 
 I'm a Computer Science student from Ethiopia passionate about building technology that solves real-world problems. My journey started with curiosity about computers and the internet, which led me into web development, cybersecurity, and software engineering. Since then, I've been continuously learning, building projects, and expanding my technical skills.
 
