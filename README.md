@@ -4,7 +4,7 @@ I'm a Computer Science student from Ethiopia passionate about building technolog
 
 Today, I focus on creating modern web applications, exploring cybersecurity, and developing practical solutions that can make a positive impact on people's lives. I believe technology is one of the most powerful tools for creating opportunities, improving education, and solving everyday challenges.
 
-🚀 What I'm Building
+What I'm Building
 
  💻 Web Development Projects
 
